@@ -3,8 +3,8 @@
 #
 # You will need to supply the following information.
 #
-# Name:
-# Section:
+# Name: Veronica
+# Section: CPE 101-01
 #
 
 print ("Hello, Veronica.")
